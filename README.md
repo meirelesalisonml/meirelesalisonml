@@ -1,6 +1,6 @@
 ## <img src="https://github.com/meirelesalisonml/meirelesalisonml/blob/main/assets/200w.gif" width="30px" height="30px"><samp> Alison Meireles </samp>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/alison-meireles-b418a3273/)](https://www.linkedin.com/in/alison-meireles-b418a3273/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/meirelesalisonml/)](https://www.linkedin.com/in/meirelesalisonml/)
 
 
 <samp>Hello World!</samp> <img src="https://github.com/meirelesalisonml/meirelesalisonml/blob/main/assets/earth.gif" width="22px" height="22px">
